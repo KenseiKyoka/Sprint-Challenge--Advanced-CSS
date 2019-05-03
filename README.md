@@ -34,13 +34,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the difference between an adaptive website and a fully responsive website?
 
+  The flexibility of the breaks, Adaptive meets the needs of time but Fully responsive meets quality requirements
+
 2. Describe what it means to be mobile first vs desktop first.
+
+  Mobile First is positioning itself to be a app that is on the phone while Desktop focuses of the size of computer screens.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
+  It would ratio out to be 10px for the font.
+
 4. How would you describe preprocessing to someone new to CSS?
 
+  It can be really tedious, but is a step that can help the flow of your css be beautiful and simplistic.
+
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+My favorite part is once you have it up and running youll never want to miss out on what it provides. The most trouble comes from setting up the environment.
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -56,13 +67,13 @@ Follow these steps to set up your project:
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
- 
+
 Follow these steps for completing your project.
 
 - [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 - [ ] Add your project manager as a reviewer on the pull-request
 - [ ] Your project manager will count the project as complete by merging the branch back into master.
- 
+
 
 ### Preprocessor Set up
 
